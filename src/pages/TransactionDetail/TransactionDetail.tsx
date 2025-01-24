@@ -16,7 +16,7 @@ const TransactionDetail = () => {
     if (id && data[Number(id)]) {
       setTransaction(data[Number(id)]);
     }
-  }, []);
+  }, [id]);
 
   return (
     <>

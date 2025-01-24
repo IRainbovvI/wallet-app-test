@@ -35,7 +35,7 @@ const TransactionCard = ({
     } else {
       setDate(new Intl.DateTimeFormat("en-US").format(transactionDate));
     }
-  }, []);
+  }, [transaction.date]);
 
   return (
     <Link

@@ -1,0 +1,19 @@
+.container {
+  display: grid;
+  grid-template-areas:
+    "cardBalance paymentDue"
+    "dailyPoints paymentDue";
+  grid-template-columns: 1fr 1fr;
+  gap: 1vw;
+}
+
+.container > div {
+  background-color: #fefefe;
+  border-radius: 7px;
+  padding: 1vw;
+}
+
+.listContainer {
+  background-color: #fefefe;
+  border-radius: 7px;
+}

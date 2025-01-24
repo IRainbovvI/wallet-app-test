@@ -1,0 +1,92 @@
+[
+  {
+    "type": "Payment",
+    "amount": "23.99",
+    "transactionName": "Target",
+    "transactionDescription": "Here we go again",
+    "date": "01.20.2025",
+    "pending": true,
+    "authorizedUser": ""
+  },
+  {
+    "type": "Card",
+    "amount": "68.20",
+    "transactionName": "Samsung",
+    "transactionDescription": "Here we go again 2",
+    "date": "12.01.2024",
+    "pending": false,
+    "authorizedUser": "Chaska"
+  },
+  {
+    "type": "Card",
+    "amount": "21.21",
+    "transactionName": "Pizza Hut",
+    "transactionDescription": "Here we go again FOR PIZZA!!!",
+    "date": "01.19.2025",
+    "pending": false,
+    "authorizedUser": ""
+  },
+  {
+    "type": "Payment",
+    "amount": "23.99",
+    "transactionName": "Zabka",
+    "transactionDescription": "Here we go again 3",
+    "date": "11.29.2024",
+    "pending": true,
+    "authorizedUser": "Barbara"
+  },
+  {
+    "type": "Card",
+    "amount": "35.50",
+    "transactionName": "Amazon",
+    "transactionDescription": "Ordered new tech gear",
+    "date": "12.25.2024",
+    "pending": false,
+    "authorizedUser": ""
+  },
+  {
+    "type": "Payment",
+    "amount": "10.00",
+    "transactionName": "Starbucks",
+    "transactionDescription": "Morning coffee routine",
+    "date": "01.15.2025",
+    "pending": true,
+    "authorizedUser": ""
+  },
+  {
+    "type": "Card",
+    "amount": "150.00",
+    "transactionName": "Best Buy",
+    "transactionDescription": "Bought new headphones",
+    "date": "01.05.2025",
+    "pending": false,
+    "authorizedUser": "Alex"
+  },
+  {
+    "type": "Payment",
+    "amount": "50.75",
+    "transactionName": "Walmart",
+    "transactionDescription": "Groceries for the week",
+    "date": "01.20.2025",
+    "pending": true,
+    "authorizedUser": ""
+  },
+  {
+    "type": "Card",
+    "amount": "45.90",
+    "transactionName": "Uber",
+    "transactionDescription": "Ride to downtown",
+    "date": "12.22.2024",
+    "pending": false,
+    "authorizedUser": "Sam"
+  },
+  {
+    "type": "Payment",
+    "amount": "12.49",
+    "transactionName": "Spotify",
+    "transactionDescription": "Monthly subscription andd some more text just to check overflow (good anime btw)",
+    "date": "01.10.2025",
+    "pending": false,
+    "authorizedUser": ""
+  }
+]
